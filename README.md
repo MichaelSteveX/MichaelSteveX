@@ -23,17 +23,14 @@
 ## About Me
 
 ```python
-piyush_dave = {
+Yusuf Khan = {
     "role"        : "Data Analyst",
     "location"    : "Navi Mumbai, Maharashtra, India",
     "experience"  : "Virtual Internship @ Unified Mentor",
     "status"      : "Open to full-time Data Analyst , Business Analyst opportunities",
-    "tools"       : ["SQL", "Power BI", "Excel", "Python","Machine Learning"],
+    "tools"       : ["SQL", "Postgree SQL", "Power BI", "Excel", "Python"],
     "strengths"   : ["EDA", "Dashboard Design", "SQL Optimization",
-                     "Data Cleaning", "Business Insights"],
-    "fun_fact"    : "I collected real AQI data from India's CPCB govt website
-                     for my Amravati air quality project — not from Kaggle!"
-}
+                     "Data Cleaning", "Machine Learning", "Business Insights"]
 ```
 
 ---
