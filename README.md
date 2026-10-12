@@ -55,3 +55,7 @@ Yusuf Khan = {
 </div>
 
 ---
+
+## Let's Connect
+
+I am actively looking for **full-time Data Analyst opportunities**. If you are hiring or know someone who is, I would love to connect!
